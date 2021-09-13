@@ -1,5 +1,7 @@
-# js13k2021
+# I Need My S P A C E!
 Entry for [JS13K 2021](https://js13kgames.com)
+
+![Screenshot](https://github.com/codyssia/js13k2021/blob/26cc831cbe0dcb52179c3794445192d09db09ca8/screenshot.png)
 
 **Goal:** Collect high totals in the row sums and bonuses, without letting your round score fall below the "death score."</p>
 
